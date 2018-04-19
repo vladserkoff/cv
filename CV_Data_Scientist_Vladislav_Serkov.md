@@ -7,7 +7,7 @@ Moscow, Russia | +79853446858 | [vladserkoff@gmail.com](mailto:vladserkoff@gmail
 Data scientist with hads-on experience in machine learning, statistical analysis, data visualization and big data. On one hand, I am capable of delivering results relevant to current business needs. And on the other hand, interested in a research for new data- and ML-driven products. My favorite tool for day-to-day work is Python, but I am also familiar with R.
 
 ## Work experience
-#### Data scientist at [DCA](https://www.dca.ru): October 2017 - Present
+#### Data scientist at [DCA](http://dca.ru): October 2017 - Present
 DCA is a programmatic advertising platform and is one of the largest DMPs in Russia, seeing data from millions of sites every day. Here I build end-to-end systems that help to make sense of the data in unsupervised way: **1.** Automatic segment creation based on target keywords; **2.** Web pages categorization; **3.** Audience look-alike segmentation; **4.** Banner CTR prediction.
 
 #### Data analyst at R&D at [Flocktory](https://www.flocktory.com): November 2014 - September 2017
