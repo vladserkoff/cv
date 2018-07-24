@@ -7,7 +7,7 @@ Data scientist with hands-on experience in machine learning, statistical analysi
 
 ## Work experience
 #### Senior data scientist at [DCA](http://dca.ru): October 2017 - Present
-DCA is a programmatic advertising platform and is one of the largest DMPs in Russia, seeing data from millions of sites every day. Here I build end-to-end systems that help to make sense of the data in unsupervised way: **1.** Automatic audience segments creation based on target keywords; **2.** Web pages categorization based on word2vec vecorization; **3.** Audience look-alike segmentation; **4.** Highload banner CTR prediction with Tensorflow and Tensorflow Serving.
+DCA is a programmatic advertising platform and is one of the largest DMPs in Russia, seeing data from millions of sites every day. Here I build end-to-end systems that help to make sense of the data in unsupervised way: **1.** Automatic audience segments creation based on target keywords; **2.** Web pages categorization based on word2vec embeddings; **3.** Audience look-alike segmentation; **4.** Highload banner CTR prediction with Tensorflow and Tensorflow Serving.
 
 #### Data analyst at R&D at [Flocktory](https://www.flocktory.com): November 2014 - September 2017
 Designed and built data tools and products using Flocktory's data on activity of visitors of the majority of Russia's largest e-commerce sites. Flocktory sees tens of GBs of data per day. This causes major challenges in extracting value and insights from it, thus a large variety of tools is used in the process.
