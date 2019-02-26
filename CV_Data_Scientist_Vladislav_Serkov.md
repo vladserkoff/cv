@@ -3,11 +3,11 @@ Moscow, Russia | +79853446858 | [t.me/vladserkoff](https://t.me/vladserkoff) | [
 [github.com/vladserkoff](https://github.com/vladserkoff) | [linkedin.com/in/vladserkoff](https://www.linkedin.com/in/vladserkoff)
 
 ## Profile
-Data scientist with hands-on experience in machine learning, statistical analysis, data visualization and big data. On one hand, I am capable of delivering results relevant to current business needs. And on the other hand, interested in a research for new data- and ML-driven products. My favorite tool for day-to-day work is Python, but I am also familiar with R.
+Data scientist with hands-on experience in machine learning, statistical analysis, data visualization and big data. On one hand, I am capable of delivering results relevant to current business needs. And on the other hand, interested in a research for new data- and ML-driven products. My favorite tool for day-to-day work is Python, but I am also familiar with R. Favorite library for deep learning is pytorch.
 
 ## Work experience
 #### Senior data scientist at [Dexpa](http://dexpa.io): November 2018 - Present
-Price and volatility prediction on crypocurrency markets.
+Dexpa provides cryptotraders with analytical tools to help with trading. One of the products is a price and volatility prediction on crypocurrency markets.
 
 #### Senior data scientist at [Stream](http://stream.ru): September 2018 - October 2018
 Stream is a division of MTS, one of Russia's largest telecommunication companies. There I've developed a face identification system for MTS' Second Memory service.
@@ -24,9 +24,9 @@ Mamsy is a e-commerce retail based on flash-sales model. In there I’ve decided
 ## Technical skills and programming languages
 * **Statistical skills**: regression analysis, hypothesis testing, data visualization, association rules
 * **Machine learning**: data cleaning and preparation, feature engineering, regression, classification, cross-validation
-* **Databases**: **Impala**, **Hive**, **HBase**, **MongoDB**, **PostgreSQL**, **Vertica** etc.
-* **Python**: data munging with **pandas**, machine learning with **scikit-learn**, **XGBoost** and **LightGBM**, web scraping with **requests**, plotting with **matplotlib** and **seaborn**.
-* **Other tools**: **SQL** for structured data, **S3** and **kafka** for raw and stream data, parallel processing with **dask** library, **Linux** cli, cloud computing with **AWS** and **Azure**, version control with **git**, deploying to production with **Docker**.
+* **Databases**: **BigTable**, **BigQuery**, **Impala**, **Hive**, **HBase**, **MongoDB**, **PostgreSQL**, **Vertica** etc.
+* **Python**: data munging with **pandas**, machine learning with **scikit-learn**, **LightGBM** and **pytorch**, web scraping with **requests**, plotting with **matplotlib** and **seaborn**.
+* **Other tools**: **SQL** for structured data, **S3** and **kafka** for raw and stream data, parallel processing with **dask** library, **Linux** cli, cloud computing with **AWS** and **GCP**, version control with **git**, deploying to production with **Docker**.
 
 ## Education
 #### National Research University Higher School of Economics
