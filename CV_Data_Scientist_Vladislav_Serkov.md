@@ -1,5 +1,5 @@
 # Vladislav Serkov
-Moscow, Russia | +79853446858 | [t.me/vladserkoff](https://t.me/vladserkoff) | [vladserkoff@pm.com](mailto:vladserkoff@pm.com)  
+Moscow, Russia | +79853446858 | [t.me/vladserkoff](https://t.me/vladserkoff) | [vladserkoff@pm.com](mailto:vladserkoff@pm.me)  
 [github.com/vladserkoff](https://github.com/vladserkoff) | [linkedin.com/in/vladserkoff](https://www.linkedin.com/in/vladserkoff)
 
 ## Profile
