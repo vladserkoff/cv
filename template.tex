@@ -1,0 +1,31 @@
+\documentclass[10pt]{article}
+\usepackage{geometry}
+\geometry{a4paper, margin=0.5in}
+\usepackage{fontspec}
+\setmainfont{Helvetica Light}
+
+% Include the hyperref package for \href command
+\usepackage{hyperref}
+
+% Define the \tightlist command to avoid errors with lists
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Disable section numbering
+\setcounter{secnumdepth}{0}
+
+\usepackage{titlesec}
+% Format section headers to be bold
+\titleformat{\section}
+  {\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+
+% Disable page numbering
+\pagenumbering{gobble}
+
+\begin{document}
+$body$
+\end{document}
