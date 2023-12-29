@@ -6,41 +6,42 @@ Helsinki, Finland, open to relocation
 +358407306647 | vladserkoff@pm.me | linkedin.com/in/vladserkoff | github.com/vladserkoff
 
 ## Summary
-Accomplished Senior Machine Learning Engineer and a Python developer with a specialized focus on deep learning technologies and a track record of developing high-impact solutions in computer vision. Proficient in enhancing data processing pipelines, model accuracy, and operational cost reduction. Experienced in applying multimodal techniques to projects, adept in delivering complex AI projects that consistently exceed performance benchmarks.
+Dedicated Senior Machine Learning Engineer with deep expertise in Python and deep learning, notably in computer vision applications. Demonstrated ability in enhancing data processing efficiencies, elevating model accuracies, and reducing operational expenditures. Skilled in leveraging multimodal techniques to exceed project benchmarks, with a history of delivering complex AI solutions.
 
 ## Key Skills & Technologies
-- **Deep Learning**: Neural network design, optimization, and deployment for vision and point cloud data.
-- **Computer Vision**: CNNs, Object detection, image segmentation, and sensor fusion, OpenCV.
-- **Machine Learning Tools**: PyTorch, Scikit-learn, AWS Sagemaker, Transformers.
-- **Data Engineering**: Efficient large-scale data pipeline design, vector databases, PostgreSQL.
-- **Multimodal LLMs**: BERT, Stable Diffusion fine-tuning with LORAs, CLIP embeddings, prompt engineering.
-- **Model Optimization**: Quantization, pruning, and compression.
-- **Languages and tools**: Python, SQL, Bash, Docker, Git.
-- **Team Leadership**: Junior scientist mentorship and project team direction.
+- **Deep Learning**: Design, optimization, and implementation of neural networks for vision, point cloud, and text data.
+- **Computer Vision**: Proficiency with CNNs, object detection, image segmentation, sensor fusion, and OpenCV.
+- **Machine Learning Tools**: Hands-on experience with PyTorch, Scikit-learn, AWS Sagemaker, and Transformers.
+- **Data Engineering**: Development of scalable data pipelines, experience with vector databases, and PostgreSQL.
+- **Multimodal LLMs**: Practical application of BERT, fine-tuning Stable Diffusion with LORAs, CLIP embeddings, and prompt engineering.
+- **Model Optimization**: Proficient in model quantization, pruning, and compression techniques.
+- **Languages and tools**: Proficient in Python, SQL, Bash, with practical use of Docker and Git.
+- **Team Leadership**: Guided junior scientists and supported tech development effectively.
 
 ## Professional Experience
 
 ### Senior Deep Learning Engineer, SharperShape, September 2019 - Present
-- Reduced 3D point cloud segmentation time by 50% using novel graph neural network architecture.
-- Reduced model training time from 7 days to 20 hours, cutting costs by 80%.
-- Developed and maintained object detection, classification, and segmentation pipelines, boosting label team productivity by 50-70%.
-- Implemented a tree species classifier using hyperspectral data, 30% more accurate than RGB baseline.
-- Lowered false negative rate by 30% on object detector by fusing LiDAR and RGB data streams.
-- Improved RGB camera and LiDAR sensor calibration by 15% through edge and line detection algorithms.
-- Delivered 10+ educational presentations, sharing insights and best practices with upper management and cross-functional teams.
-- Improved development workflows, including PR reviews for 5+ teammates, and enforced coding standards, such as docstrings and type hinting.
+- Achieved a 50% reduction in 3D point cloud segmentation time through a new graph neural network design.
+- Streamlined model training processes, reducing time from 7 days to 20 hours and cutting associated costs by 80%.
+- Enhanced object detection, classification, and segmentation pipelines, increasing labelling team efficiency by 50-70%.
+- Developed a tree species classifier using hyperspectral data, achieving a 30% higher accuracy rate compared to the RGB baseline.
+- Decreased the false negative rate in object detection by 30% through innovative LiDAR and RGB data fusion.
+- Refined RGB camera and LiDAR sensor calibration by 15% via advanced edge and line detection algorithms.
+- Contributed to team development by delivering over 10 educational sessions on insights and best practices.
+- Standardized development workflows, including PR reviews and coding standards implementation for the team.
 
 ### Deep Learning Engineer, Dexpa, November 2018 - August 2019
-- Engineered a neural network based time-series forecasting pipeline beating human performance by 3%.
-- Researched SOTA approaches for stock and currency exchange markets.
-- Mentored an intern to full data scientist role within one year, emphasizing hands-on training and project ownership.
+- Designed a neural network for time-series forecasting that surpassed human accuracy benchmarks by 3%.
+- Conducted research on state-of-the-art methodologies for financial markets.
+- Successfully mentored an intern to transition to a full-fledged data scientist role within one year through practical project involvement.
 
 ### Senior Data Scientist, Stream, DCA, Flocktory, Mamsy, March 2014 - October 2018
-- Created a person identification system for event imagery, serving over 100 employees.
-- Optimized high-load real time bidding system increasing profitability manifold.
-- Compiled an extensive embedding catalog of 100M web pages for categorization and clustered 300M users by interests.
-- Built customer purchase matching tool by creating unified product taxonomy using NLP tools.
-- Optimized banner ad placements via reinforcement learning.
+- Developed a person identification system utilized by over 100 employees for event imagery management.
+- Enhanced a high-load real-time bidding system, significantly increasing system profitability.
+- Assembled a comprehensive embedding catalog of 100M web pages, facilitating efficient web page categorization.
+- Clustered 300M users according to interests using advanced data analysis techniques.
+- Implemented a customer purchase matching tool by establishing a unified product taxonomy with NLP methodologies.
+- Improved banner ad placement effectiveness using reinforcement learning strategies.
 
 ## Education
 
