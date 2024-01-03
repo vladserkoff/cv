@@ -11,8 +11,8 @@ Dedicated Senior Machine Learning Engineer with deep expertise in Python and dee
 ## Key Skills & Technologies
 - **Deep Learning**: Design, optimization, and implementation of neural networks for vision, point cloud, and text data.
 - **Computer Vision**: Proficiency with CNNs, object detection, image segmentation, sensor fusion, and OpenCV.
-- **Machine Learning Tools**: Hands-on experience with PyTorch, Scikit-learn, AWS Sagemaker, and Transformers.
-- **Data Engineering**: Development of scalable data pipelines, experience with vector databases, and PostgreSQL.
+- **Machine Learning Tools**: Hands-on experience with PyTorch, Scikit-learn, AWS Sagemaker, and HF Transformers.
+- **MLOps**: Model deployment with BentoML, Flask, experience with vector databases and PostgreSQL, CI/CD and infrastructure as a code with Ansible.
 - **Multimodal LLMs**: Practical application of BERT, fine-tuning Stable Diffusion with LORAs, CLIP embeddings, and prompt engineering.
 - **Model Optimization**: Proficient in model quantization, pruning, and compression techniques.
 - **Languages and tools**: Proficient in Python, SQL, Bash, with practical use of Docker and Git.
