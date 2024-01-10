@@ -1,2 +1,5 @@
 .vscode
 .DS_Store
+*.pdf
+**/cover_letter.md
+!Serkov_Vladislav_CV.pdf
