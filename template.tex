@@ -1,31 +1,51 @@
-\documentclass[10pt]{article}
-\usepackage{geometry}
-\geometry{a4paper, margin=0.3in}
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.7in]{geometry}
 \usepackage{fontspec}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
 \setmainfont{Helvetica Light}
 
-% Include the hyperref package for \href command
-\usepackage{hyperref}
+% Remove paragraph indentation
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
 
-% Define the \tightlist command to avoid errors with lists
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+% Custom section styling
+\titleformat{\section}
+{\large\bfseries\color{black}}
+{}
+{0em}
+{}[\vspace{-4pt}\titlerule\vspace{4pt}]
 
 % Disable section numbering
 \setcounter{secnumdepth}{0}
 
-\usepackage{titlesec}
-% Format section headers to be bold
-\titleformat{\section}
-  {\normalfont\Large\bfseries}{\thesection}{1em}{}
 \titleformat{\subsection}
-  {\normalfont\large\bfseries}{\thesubsection}{1em}{}
-\titleformat{\subsubsection}
-  {\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+{\normalsize\bfseries}
+{}
+{0em}
+{}
 
-% Disable page numbering
-\pagenumbering{gobble}
+% Adjust spacing
+\titlespacing*{\section}{0pt}{12pt}{6pt}
+\titlespacing*{\subsection}{0pt}{8pt}{2pt}
+
+\setlist[itemize]{label={-},leftmargin=8pt}
+
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Line spacing
+\usepackage{setspace}
+\setstretch{1.05}
+
+% Header and footer
+\usepackage{fancyhdr}
+\pagestyle{empty}
 
 \begin{document}
+
 $body$
+
 \end{document}
